@@ -1,4 +1,4 @@
-name: 'touchtest'
+name: 'touch file'
 description: 'touch a file'
 inputs:
   file:
