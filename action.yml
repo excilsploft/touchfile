@@ -1,7 +1,7 @@
 name: 'touch file'
 description: 'touch a file'
 inputs:
-  file:
+  filename:
     description: 'filename'
 runs:
   using: 'docker'
