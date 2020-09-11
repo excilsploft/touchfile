@@ -1,0 +1,8 @@
+name: 'touchtest'
+description: 'touch a file'
+inputs:
+  file:
+    description: 'filename'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
